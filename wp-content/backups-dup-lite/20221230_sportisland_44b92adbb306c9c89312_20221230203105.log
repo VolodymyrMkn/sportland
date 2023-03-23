@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 30.12.2022 20:31
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.1
+WORDPRESS:	6.1.1
+PHP INFO:	8.0.18 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 40MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20221230_sportisland_44b92adbb306c9c89312_20221230203105_database.sql
+SQL FILE SIZE: 1.22MB (1275930)
+SQL FILE TIME: 2022-12-30 20:31:39
+SQL RUNTIME: 3.52 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  W:/domains/sportisland.loc
+ARCHIVE FILE: 20221230_sportisland_44b92adbb306c9c89312_20221230203105_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	95.93MB
+STATS:	Dirs 639 | Files 4,651
+SQL ADDED: 20221230_sportisland_44b92adbb306c9c89312_20221230203105_database.sql
+ZipArchive Object
+(
+    [lastId] => 5289
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5290
+    [filename] => W:\domains\sportisland.loc\wp-content\backups-dup-lite\tmp\20221230_sportisland_44b92adbb306c9c89312_20221230203105_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5289
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 35.39MB
+ARCHIVE RUNTIME: 32.05 sec.
+MEMORY STACK: 42MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.22MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 37.23MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,290
+ACTUAL FILE/DIRECTORY COUNT: 5,289
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 37.31 sec.
+PEAK PHP MEMORY USED: 44MB
+DONE PROCESSING => 20221230_sportisland 30.12.2022 20:32
+
